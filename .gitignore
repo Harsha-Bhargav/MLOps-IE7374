@@ -7,7 +7,13 @@ __pycache__/
 .pytest_cache/
 .vscode/
 .idea/
+*.DS_Store
 
+# python environment folder
+env/
+elk-labs/elasticsearch-8.12.0/
+elk-labs/kibana-8.12.0/
+elk-labs/logstash-8.12.0/
 
 # C extensions
 *.so
